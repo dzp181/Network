@@ -3,7 +3,7 @@
 
 * AFNetworking: A handy network request framework on iOS and OSX. [Official Website](https://github.com/AFNetworking/AFNetworking)
 * RestKit: RestKit is an iOS Objective-C framework designed to make interacting with RESTful web services simple, fast, and fun. [Official Website](https://github.com/RestKit/RestKit)
-* FSNetworking: A solid iOS networking library. [官 网](https://github.com/foursquare/FSNetworking)
+* FSNetworking: A solid iOS networking library. [Official Website](https://github.com/foursquare/FSNetworking)
 * ASIHTTPRequest: HTTP web request library written by Objective-C. It is an easy-to-use package for CFNetwork. Supports Mac OS X and iPhone. [Official Website](https://github.com/pokeb/asi-http-request)
 * Overcoat: A small but powerful library that makes creating a REST client easy and fun. [Official Website](https://github.com/Overcoat/Overcoat)
 * ROADFramework: Attribute-oriented web service interaction. The framework has built-in json and xml request response serialization methods, which is very convenient to extend. [Official Website](https://github.com/epam/road-ios-framework)
@@ -16,5 +16,5 @@
 * NKMultipeer: A testable abstraction built on multiple links. ★ [Official Website](https://github.com/nathankot/NKMultipeer)
 * CocoaAsyncSocket: Asynchronous socket network library for Mac and iOS. [Official Website](https://github.com/robbiehanson/CocoaAsyncSocket)
 * Siesta: Elegant RESTful resource abstraction, deconstructing state. Is an alternative to callback- or proxy-based network libraries. ★ [Official Website](https://bustoutsolutions.github.io/siesta/)
-* Reachability.swift: Reimplemented Apple's Reachablility framework with Swift and closures. ★ [官 网(https://github.com/ashleymills/Reachability.swift)
+* Reachability.swift: Reimplemented Apple's Reachablility framework with Swift and closures. ★ [Official Website](https://github.com/ashleymills/Reachability.swift)
 * NetworkEye: An iOS network debugging library that can display HTTP requests and information about requests in the app. [Official Website](https://github.com/coderyi/NetworkEye)
