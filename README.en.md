@@ -1,4 +1,4 @@
-# PhotoBroswer
+# Network
 [中文](https://github.com/dzp181/Network/blob/master/README.md)
 
 * AFNetworking: A handy network request framework on iOS and OSX. [Official Website](https://github.com/AFNetworking/AFNetworking)
@@ -10,7 +10,7 @@
 * MBNetworkMonitor: a modern alternative to Apple's `Reachability` class, which uses` CoreTelephony` to convey more [information about the user's network connection status] Classes / MBNetworkMonitor.html). [Official Website](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkMonitor.h)
 * MBNetworkIndicator: Provides an easy way [to coordinate device network indicators between multiple requests](https://rawgit.com/emaloney/MBToolbox/master/Documentation/html/Classes/MBNetworkIndicator.html). [Official Website](https://github.com/emaloney/MBToolbox/blob/master/Code/Network/MBNetworkIndicator.h)
 * Alamofire: Alamofire is a Swift HTTP networking library written by the authors of AFNetworking. ★ [Official Website](https://github.com/Alamofire/Alamofire)
-* Transporter: A small code base that makes uploading and downloading easier. ★ [官 网](https://github.com/nghialv/Transporter)
+* Transporter: A small code base that makes uploading and downloading easier. ★ [Official Website](https://github.com/nghialv/Transporter)
 * CDZPinger: Easy-to-use ICMP Ping framework. [Official Website](https://github.com/cdzombak/CDZPinger)
 * NSRails: Map the client's object / class to the object / ORM of the remote REST API. [Official Website](https://github.com/dingbat/nsrails)
 * NKMultipeer: A testable abstraction built on multiple links. ★ [Official Website](https://github.com/nathankot/NKMultipeer)
